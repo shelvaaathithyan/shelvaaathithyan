@@ -72,8 +72,8 @@ LinkedIn: Available on request
       const blob = new Blob([resumeContent], { type: 'text/plain' });
       const url = window.URL.createObjectURL(blob);
       const link = document.createElement('a');
-      link.href = url;
-      link.download = 'Shelvaaathithyan_VK_Resume.txt';
+  link.href = '/Shelvaaathithyan_Resume.pdf'; // Path to the file inside public/
+  link.download = 'Shelvaaathithyan_Resume.pdf';
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
