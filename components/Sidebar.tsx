@@ -38,48 +38,16 @@ const Sidebar: React.FC<SidebarProps> = ({
     onExpandChange?.(expanded);
   };
 
-  // Function to handle resume download
+  // ✅ Function to handle PDF Resume download
   const handleResumeDownload = () => {
     try {
-      const resumeContent = `
-SHELVAAATHITHYAN VK
-AI/ML Developer & Problem Solver
-
-EDUCATION
-• BE Computer Science Engineering - AI & ML
-  PSG College of Technology (2024-2027)
-• Diploma in Computer Engineering  
-  PSG Polytechnic College (2021-2024)
-
-PROJECTS
-• Inventory Management System - Android application with Firebase backend
-• ApartiBot - IoT Delivery Robot with computer vision capabilities
-• Advanced Home Security System - Smart IoT security solution
-• 3D Gengar Model - Professional 3D modeling in Blender
-
-TECHNICAL SKILLS
-Programming: Java (3.5/5), Python (2/5), C (3/5)
-Technologies: Firebase (3/5), MongoDB (2/5), MySQL (3/5)
-Tools: Power BI (3/5), Blender (3/5), Git (3/5), Android Studio (3.5/5)
-
-CONTACT
-Location: Tamil Nadu, India
-Email: Available on request
-GitHub: github.com/shelvaaathithyan
-LinkedIn: Available on request
-      `;
-
-      const blob = new Blob([resumeContent], { type: 'text/plain' });
-      const url = window.URL.createObjectURL(blob);
       const link = document.createElement('a');
-  link.href = '/Shelvaaathithyan_Resume.pdf'; // Path to the file inside public/
-  link.download = 'Shelvaaathithyan_Resume.pdf';
+      link.href = '/Shelvaaathithyan_Resume.pdf'; // PDF in /public folder
+      link.download = 'Shelvaaathithyan_Resume.pdf';
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
-      window.URL.revokeObjectURL(url);
-      
-      console.log('Resume downloaded successfully!');
+      console.log('PDF downloaded successfully!');
     } catch (error) {
       console.error('Error downloading resume:', error);
       alert('Error downloading resume. Please try again.');
@@ -116,7 +84,7 @@ LinkedIn: Available on request
     },
   ];
 
-  // Mobile Hamburger Menu
+  // ---------------- MOBILE SIDEBAR ----------------
   if (isMobile) {
     return (
       <>
@@ -243,7 +211,7 @@ LinkedIn: Available on request
     );
   }
 
-  // Desktop Sidebar
+  // ---------------- DESKTOP SIDEBAR ----------------
   const shouldExpand = isExpanded || isHovered;
 
   return (
