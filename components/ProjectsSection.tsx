@@ -16,7 +16,7 @@ const ProjectsSection: React.FC = () => {
       github: "https://github.com/shelvaaathithyan/Smart_Snacky",
       featured: false,
       status: "Completed",
-      year: "2024"
+      year: "2018"
     },
     {
       title: "ApartiBot - IoT Delivery Robot",
@@ -38,7 +38,7 @@ const ProjectsSection: React.FC = () => {
       github: "https://github.com/shelvaaathithyan/Machine_Health_Checker",
       featured: false,
       status: "Completed",
-      year: "2024"
+      year: "2023"
     },
     {
       title: "Smart Bin - IoT Waste Management",
@@ -49,7 +49,7 @@ const ProjectsSection: React.FC = () => {
       github: "https://github.com/shelvaaathithyan/SmartBin",
       featured: false,
       status: "Completed",
-      year: "2023"
+      year: "2019"
     }
   ];
 
