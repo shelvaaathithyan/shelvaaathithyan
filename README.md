@@ -20,11 +20,10 @@
 
 ### 🧑‍💻&nbsp; About Me
 
-I'm a Computer Science & Engineering (AI & ML) student at **PSG College of Technology**, Coimbatore. I build AI-powered products, full-stack applications, and IoT systems — and currently serve as the **Embedded Systems & IoT Domain Coordinator** at CSEA, PSG.
+<p align="justify">
+I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <strong>PSG College of Technology, Coimbatore</strong>, passionate about building AI-powered products, scalable full-stack applications, and intelligent IoT solutions. Currently serving as the <strong>Embedded Systems & IoT Domain Coordinator</strong> at CSEA, I enjoy transforming innovative ideas into impactful real-world solutions. I'm also a <strong>Summer Research Intern @ SERC, IIIT Hyderabad</strong>, where I'm expanding my research experience while continuously exploring emerging technologies and building meaningful software.
+</p>
 
-- 🎓&nbsp; B.E. CSE (AI & ML) — CGPA 7.83
-- 🌱&nbsp; Currently exploring applied ML and Three.js / interactive UI
-- 💼&nbsp; Open to AI/ML and Full-Stack Engineering roles & collaborations
 
 <br/>
 
@@ -57,53 +56,53 @@ I'm a Computer Science & Engineering (AI & ML) student at **PSG College of Techn
 <table align="center">
 <tr><td align="center">
 
-**🧠 NEPTUNE·AI**
+**NeptuneAI**
 <br/>
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <br/>
-🏆 Runner-Up, OBLIVION'25 National Hackathon
+
 
 </td><td align="center">
 
-**🤖 APARTI·BOT**
+**ApartiBot**
 <br/>
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 <br/>
-Autonomous grocery-delivery robot
+
 
 </td></tr>
 <tr><td align="center">
 
-**🍽️ VISION·BITE**
+**VisionBite**
 <br/>
 <img src="https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <br/>
-Smart Café recommendation engine
+
 
 </td><td align="center">
 
-**📚 REPORA**
+**Repora**
 <br/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <br/>
-Academic resource-sharing platform
+
 
 </td></tr>
 <tr><td align="center">
 
-**🛍️ RAHA CREATIONS**
+**Raha Creations**
 <br/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-E--Commerce-000000?style=flat-square&logo=shopify&logoColor=white"/>
 <br/>
-Full-stack jewellery store — *in progress*
+
 
 </td><td align="center">
 
-**♻️ SMART DUSTBIN**
+**SmartBin**
 <br/>
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 <br/>
-🏆 Ideathon-Hackathon Winner, shipped product
+
 
 </td></tr>
 </table>
@@ -145,17 +144,13 @@ Full-stack jewellery store — *in progress*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
-### 👾&nbsp; Pac-Man Contribution Graph
+
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shelvaaathithyan/shelvaaathithyan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shelvaaathithyan/shelvaaathithyan/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/shelvaaathithyan/shelvaaathithyan/output/pacman-contribution-graph.svg" width="100%">
-</picture>
+<img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/shelvaaathithyan/shelvaaathithyan/output/bomberman-contribution-graph-dark.svg" width="100%">
 
-<sub>Pac-Man munches through my contribution graph — auto-updated daily via GitHub Actions.</sub>
+<sub>Contribution grid detonated in true arc-reactor fashion — auto-updated daily via GitHub Actions.</sub>
 
 </div>
 
