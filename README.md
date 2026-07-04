@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:2C5364,55:38BDF8,100:8E75B2&height=230&section=header&text=Shelvaaathithyan%20VK&fontSize=48&fontColor=ffffff&fontAlignY=33&animation=twinkling&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=52&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:8B0000,60:C62828,100:FFD700&height=230&section=header&text=Shelvaaathithyan%20VK&fontSize=50&fontColor=ffffff&fontAlignY=33&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&animation=twinkling&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=52&descSize=19" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=22&letterSpacing=1px&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=BUILDING+AI-POWERED+PRODUCTS;CRAFTING+FULL-STACK+EXPERIENCES;ENGINEERING+SMART+IOT+SYSTEMS;TURNING+IDEAS+INTO+IMPACT" alt="Typing SVG"/>
 
@@ -23,7 +23,6 @@
 <p align="justify">
 I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <strong>PSG College of Technology, Coimbatore</strong>, passionate about building AI-powered products, scalable full-stack applications, and intelligent IoT solutions. Currently serving as the <strong>Embedded Systems & IoT Domain Coordinator</strong> at CSEA, I enjoy transforming innovative ideas into impactful real-world solutions. I'm also a <strong>Summer Research Intern @ SERC, IIIT Hyderabad</strong>, where I'm expanding my research experience while continuously exploring emerging technologies and building meaningful software.
 </p>
-
 
 <br/>
 
@@ -113,7 +112,7 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
-### 📊&nbsp; System Diagnostics
+### 📊&nbsp; Git Stats
 
 <div align="center">
 
@@ -144,7 +143,7 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
-
+### 💥&nbsp; Arc Reactor Overload
 
 <div align="center">
 
@@ -158,7 +157,7 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,45:38BDF8,75:2C5364,100:0F2027&height=160&section=footer&animation=twinkling&text=Thanks%20for%20Visiting!%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,40:C62828,70:8B0000,100:0D0D0D&height=160&section=footer&animation=twinkling&text=Thanks%20for%20Scrolling!!&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=80" width="100%"/>
 
 <b>Building technology that creates real-world impact.</b>
 
