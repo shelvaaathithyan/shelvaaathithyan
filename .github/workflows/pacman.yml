@@ -1,11 +1,10 @@
-name: Generate Pac-Man Contribution Graph
+name: Generate Bomberman Contribution Graph
 on:
   schedule:
     - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches: [main]
-
 jobs:
   generate:
     permissions:
@@ -13,10 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate bomberman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          games: 'bomberman'
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
