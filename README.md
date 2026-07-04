@@ -20,12 +20,11 @@
 
 ### 🧑‍💻&nbsp; About Me
 
-I'm a **Computer Science & Engineering (AI & ML)** student at **PSG College of Technology, Coimbatore**, passionate about building **AI-powered products, scalable full-stack applications, and intelligent IoT solutions**. Currently serving as the **Embedded Systems & IoT Domain Coordinator** at **CSEA**, I enjoy transforming ideas into impactful, real-world solutions through technology.
+I'm a Computer Science & Engineering (AI & ML) student at **PSG College of Technology**, Coimbatore. I build AI-powered products, full-stack applications, and IoT systems — and currently serve as the **Embedded Systems & IoT Domain Coordinator** at CSEA, PSG.
 
--  B.E. CSE (AI & ML) 
--  Building AI-powered products, full-stack applications, and IoT systems
--  Exploring Machine Learning, Three.js, GSAP, and immersive web experiences
--  Open to AI/ML, Full-Stack Software Engineering, and collaborative opportunities
+- 🎓&nbsp; B.E. CSE (AI & ML) — CGPA 7.83
+- 🌱&nbsp; Currently exploring applied ML and Three.js / interactive UI
+- 💼&nbsp; Open to AI/ML and Full-Stack Engineering roles & collaborations
 
 <br/>
 
@@ -58,53 +57,53 @@ I'm a **Computer Science & Engineering (AI & ML)** student at **PSG College of T
 <table align="center">
 <tr><td align="center">
 
-**NeptuneAI**
+**🧠 NEPTUNE·AI**
 <br/>
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <br/>
-
+🏆 Runner-Up, OBLIVION'25 National Hackathon
 
 </td><td align="center">
 
-**ApartiBot**
+**🤖 APARTI·BOT**
 <br/>
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 <br/>
-
+Autonomous grocery-delivery robot
 
 </td></tr>
 <tr><td align="center">
 
-**VisionBite**
+**🍽️ VISION·BITE**
 <br/>
 <img src="https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <br/>
-
+Smart Café recommendation engine
 
 </td><td align="center">
 
-**Repora**
+**📚 REPORA**
 <br/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <br/>
-
+Academic resource-sharing platform
 
 </td></tr>
 <tr><td align="center">
 
-**Raha Creations**
+**🛍️ RAHA CREATIONS**
 <br/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-E--Commerce-000000?style=flat-square&logo=shopify&logoColor=white"/>
 <br/>
-
+Full-stack jewellery store — *in progress*
 
 </td><td align="center">
 
-**SmartBin**
+**♻️ SMART DUSTBIN**
 <br/>
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 <br/>
-
+🏆 Ideathon-Hackathon Winner, shipped product
 
 </td></tr>
 </table>
@@ -115,11 +114,17 @@ I'm a **Computer Science & Engineering (AI & ML)** student at **PSG College of T
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
-### 📊&nbsp; GitHub Stats
+### 📊&nbsp; System Diagnostics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shelvaaathithyan&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shelvaaathithyan&theme=dark&hide_border=true" width="48%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C62828,100:FFD700&height=2&width=60%25"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shelvaaathithyan&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=FFD700&icon_color=C62828&text_color=E6E6E6&border_color=C62828" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shelvaaathithyan&hide_border=true&background=0D0D0D&border=C62828&stroke=FFD700&ring=C62828&fire=FFD700&currStreakLabel=FFD700&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=E6E6E6&dates=999999" width="48%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:C62828&height=2&width=60%25"/>
+
 </div>
 
 <sub align="center">Live widgets from third-party services — if a card doesn't load on first view, refresh the page.</sub>
@@ -135,6 +140,26 @@ I'm a **Computer Science & Engineering (AI & ML)** student at **PSG College of T
 <a href="https://shelvaaathithyanvk.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:shelvaaathithyan@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
+
+### 👾&nbsp; Pac-Man Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shelvaaathithyan/shelvaaathithyan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shelvaaathithyan/shelvaaathithyan/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/shelvaaathithyan/shelvaaathithyan/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<sub>Pac-Man munches through my contribution graph — auto-updated daily via GitHub Actions.</sub>
+
+</div>
+
+<br/>
 
 <div align="center">
 
