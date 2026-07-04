@@ -60,7 +60,6 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <br/>
 
-
 </td><td align="center">
 
 **ApartiBot**
@@ -68,40 +67,56 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 <br/>
 
-
-</td></tr>
-<tr><td align="center">
+</td><td align="center">
 
 **VisionBite**
 <br/>
 <img src="https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <br/>
 
-
-</td><td align="center">
+</td></tr>
+<tr><td align="center">
 
 **Repora**
 <br/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <br/>
 
-
-</td></tr>
-<tr><td align="center">
+</td><td align="center">
 
 **Raha Creations**
 <br/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-E--Commerce-000000?style=flat-square&logo=shopify&logoColor=white"/>
 <br/>
 
-
 </td><td align="center">
 
 **SmartBin**
 <br/>
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/-Sensors-4CAF50?style=flat-square&logoColor=white"/>
+<br/>
+
+</td></tr>
+<tr><td align="center">
+
+**SmartSnacky**
+<br/>
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 <br/>
 
+</td><td align="center">
+
+**Pokemon Mega Gengar**
+<br/>
+<img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
+<br/>
+
+</td><td align="center">
+
+**Machine Health Checker**
+<br/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-LLM-8E75B2?style=flat-square&logoColor=white"/>
+<br/>
 
 </td></tr>
 </table>
