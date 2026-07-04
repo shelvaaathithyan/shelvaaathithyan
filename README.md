@@ -1,163 +1,144 @@
-<!-- ========================================================= -->
-<!--                    SHELVAAATHITHYAN VK                     -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Shelvaaathithyan VK
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8E75B2&height=200&section=header&text=Shelvaaathithyan%20VK&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-### AI Engineer • Full Stack Developer • IoT Enthusiast
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=22&letterSpacing=1px&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=BUILDING+AI-POWERED+PRODUCTS;CRAFTING+FULL-STACK+EXPERIENCES;ENGINEERING+SMART+IOT+SYSTEMS;TURNING+IDEAS+INTO+IMPACT" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+(AI+%26+ML);Building+AI-Powered+Applications;Full+Stack+Developer;Machine+Learning+Explorer;Turning+Ideas+into+Real+Products" />
+<br/>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=shelvaaathithyan&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="profile views" height="28"/>
 
-<p>
+<br/><br/>
 
-<a href="https://shelvaaathithyanvk.vercel.app">
-<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:shelvaaathithyan@gmail.com">
-<img src="https://img.shields.io/badge/📧 Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/shelvaaathithyan">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shelvaaathithyan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+<a href="https://shelvaaathithyanvk.vercel.app"><img src="https://img.shields.io/static/v1?label=%20&message=%20&color=000000&style=for-the-badge&logo=vercel&logoColor=white&logoWidth=22" height="40"/></a>&nbsp;<a href="https://github.com/shelvaaathithyan"><img src="https://img.shields.io/static/v1?label=%20&message=%20&color=181717&style=for-the-badge&logo=github&logoColor=white&logoWidth=22" height="40"/></a>&nbsp;<a href="https://linkedin.com/in/shelvaaathithyan"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>&nbsp;<a href="https://leetcode.com/shelvaaathithyan"><img src="https://img.shields.io/static/v1?label=%20&message=%20&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=000000&logoWidth=22" height="40"/></a>&nbsp;<a href="mailto:shelvaaathithyan@gmail.com"><img src="https://img.shields.io/static/v1?label=%20&message=%20&color=D14836&style=for-the-badge&logo=gmail&logoColor=white&logoWidth=22" height="40"/></a>
 
 </div>
 
----
+<br/>
 
-# 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
-```yaml
-Name        : Shelvaaathithyan VK
+### 🧑‍💻&nbsp; About Me
 
-Education   : B.E Computer Science Engineering
-              Artificial Intelligence & Machine Learning
+I'm a Computer Science & Engineering (AI & ML) student at **PSG College of Technology**, Coimbatore. I build AI-powered products, full-stack applications, and IoT systems — and currently serve as the **Embedded Systems & IoT Domain Coordinator** at CSEA, PSG.
 
-College     : PSG College of Technology
+- 🎓&nbsp; B.E. CSE (AI & ML) — CGPA 7.83
+- 🌱&nbsp; Currently exploring applied ML and Three.js / interactive UI
+- 💼&nbsp; Open to AI/ML and Full-Stack Engineering roles & collaborations
 
-Interests   :
-              • Artificial Intelligence
-              • Machine Learning
-              • Full Stack Development
-              • IoT
-              • Three.js
+<br/>
 
-Currently   :
-              Building intelligent products that solve
-              real-world problems.
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
----
+### 🛠️&nbsp; Tech Stack
 
-# ⚡ Quick Highlights
+<div align="center">
 
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-### 🚀
-
-### 12+
-
-Projects
-
-</td>
-
-<td align="center" width="25%">
-
-### 🏆
-
-### 15+
-
-Awards
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-
-### AI
-
-Specialization
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌍
-
-### Singapore
-
-Educational Visit
-
-</td>
-
-</tr>
-
+<table align="center">
+<tr><td align="center"><b>Languages</b></td><td align="center"><img src="https://skillicons.dev/icons?i=java,python,javascript" /></td></tr>
+<tr><td align="center"><b>Frontend</b></td><td align="center"><img src="https://skillicons.dev/icons?i=html,css,react,threejs" /></td></tr>
+<tr><td align="center"><b>Backend</b></td><td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express" /></td></tr>
+<tr><td align="center"><b>Database</b></td><td align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /></td></tr>
+<tr><td align="center"><b>AI / Analytics</b></td><td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /> &nbsp;<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48"/></td></tr>
+<tr><td align="center"><b>Hardware / IoT</b></td><td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" /> &nbsp;<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="48"/> &nbsp;<img src="https://img.shields.io/badge/-ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="48"/></td></tr>
+<tr><td align="center"><b>Tools</b></td><td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,androidstudio,blender" /></td></tr>
 </table>
 
----
+</div>
 
-# 🎯 Current Focus
+<br/>
 
-```text
-🧠 Artificial Intelligence
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
-⚙ Full Stack Development
-
-📈 Machine Learning
-
-🚀 Building Scalable Products
-
-🎨 Three.js & Modern UI
-
-🌱 Learning Advanced ML
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://shelvaaathithyanvk.vercel.app">
-Portfolio
-</a>
-•
-<a href="https://github.com/shelvaaathithyan">
-GitHub
-</a>
-•
-<a href="https://linkedin.com/in/shelvaaathithyan">
-LinkedIn
-</a>
-•
-<a href="mailto:shelvaaathithyan@gmail.com">
-Email
-</a>
-
-</p>
-
----
+### 🚀&nbsp; Featured Projects
 
 <div align="center">
 
-### ⭐ Building technology that creates real-world impact.
+<table align="center">
+<tr><td align="center">
+
+**🧠 NEPTUNE·AI**
+<br/>
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<br/>
+🏆 Runner-Up, OBLIVION'25 National Hackathon
+
+</td><td align="center">
+
+**🤖 APARTI·BOT**
+<br/>
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<br/>
+Autonomous grocery-delivery robot
+
+</td></tr>
+<tr><td align="center">
+
+**🍽️ VISION·BITE**
+<br/>
+<img src="https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<br/>
+Smart Café recommendation engine
+
+</td><td align="center">
+
+**📚 REPORA**
+<br/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<br/>
+Academic resource-sharing platform
+
+</td></tr>
+<tr><td align="center">
+
+**🛍️ RAHA CREATIONS**
+<br/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-E--Commerce-000000?style=flat-square&logo=shopify&logoColor=white"/>
+<br/>
+Full-stack jewellery store — *in progress*
+
+</td><td align="center">
+
+**♻️ SMART DUSTBIN**
+<br/>
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<br/>
+🏆 Ideathon-Hackathon Winner, shipped product
+
+</td></tr>
+</table>
 
 </div>
 
-<!-- =================== PART 1 END ===================== -->
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
+
+### 📊&nbsp; GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shelvaaathithyan&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shelvaaathithyan&theme=dark&hide_border=true" width="48%" />
+</div>
+
+<sub align="center">Live widgets from third-party services — if a card doesn't load on first view, refresh the page.</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
+
+### 🤝&nbsp; Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/shelvaaathithyan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://shelvaaathithyanvk.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:shelvaaathithyan@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:38BDF8&height=120&section=footer"/>
+
+<b>Building technology that creates real-world impact.</b>
+
+</div>
