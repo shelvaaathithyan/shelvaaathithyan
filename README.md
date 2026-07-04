@@ -140,7 +140,7 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 </div>
 
-<sub align="center">Live widgets from third-party services — if a card doesn't load on first view, refresh the page.</sub>
+
 
 <br/>
 
@@ -164,7 +164,7 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/shelvaaathithyan/shelvaaathithyan/output/bomberman-contribution-graph-dark.svg" width="100%">
 
-<sub>Contribution grid detonated in true arc-reactor fashion — auto-updated daily via GitHub Actions.</sub>
+
 
 </div>
 
