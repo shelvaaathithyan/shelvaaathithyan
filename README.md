@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:8B0000,60:C62828,100:FFD700&height=230&section=header&text=Shelvaaathithyan%20VK&fontSize=50&fontColor=ffffff&fontAlignY=33&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&animation=twinkling&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=52&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,30:1B4F72,60:2E86C1,100:A0D8F1&height=230&section=header&text=Shelvaaathithyan%20VK&fontSize=50&fontColor=ffffff&fontAlignY=33&fontFamily=Arial%20Black&stroke=A0D8F1&strokeWidth=2&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=52&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=22&letterSpacing=1px&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=BUILDING+AI-POWERED+PRODUCTS;CRAFTING+FULL-STACK+EXPERIENCES;ENGINEERING+SMART+IOT+SYSTEMS;TURNING+IDEAS+INTO+IMPACT" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&letterSpacing=2px&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=BUILDING+AI-POWERED+PRODUCTS;CRAFTING+FULL-STACK+EXPERIENCES;ENGINEERING+SMART+IOT+SYSTEMS;TURNING+IDEAS+INTO+IMPACT" alt="Typing SVG"/>
 
 <br/>
 
@@ -16,9 +16,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A0D8F1,100:0D1B2A&height=3&width=100%25"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C62828,100:FFD700&height=60&text=ABOUT%20ME&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1B2A,50:2E86C1,100:A0D8F1&height=60&text=ABOUT%20ME&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=A0D8F1&strokeWidth=2&fontAlignY=55" width="100%"/>
 
 <p align="justify">
 I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <strong>PSG College of Technology, Coimbatore</strong>, passionate about building AI-powered products, scalable full-stack applications, and intelligent IoT solutions. Currently serving as the <strong>Embedded Systems & IoT Domain Coordinator</strong> at CSEA, I enjoy transforming innovative ideas into impactful real-world solutions. I'm also a <strong>Summer Research Intern @ SERC, IIIT Hyderabad</strong>, where I'm expanding my research experience while continuously exploring emerging technologies and building meaningful software.
@@ -26,9 +26,9 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A0D8F1,100:0D1B2A&height=3&width=100%25"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C62828,100:FFD700&height=60&text=TECH%20STACK&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:A0D8F1,50:2E86C1,100:0D1B2A&height=60&text=TECH%20STACK&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=A0D8F1&strokeWidth=2&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -46,9 +46,9 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A0D8F1,100:0D1B2A&height=3&width=100%25"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C62828,100:FFD700&height=60&text=FEATURED%20PROJECTS&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1B2A,50:2E86C1,100:A0D8F1&height=60&text=FEATURED%20PROJECTS&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=A0D8F1&strokeWidth=2&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -125,28 +125,26 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A0D8F1,100:0D1B2A&height=3&width=100%25"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C62828,100:FFD700&height=60&text=GIT%20STATS&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:A0D8F1,50:2E86C1,100:0D1B2A&height=60&text=GIT%20STATS&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=A0D8F1&strokeWidth=2&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C62828,100:FFD700&height=2&width=60%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86C1,100:A0D8F1&height=2&width=60%25"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shelvaaathithyan&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=FFD700&icon_color=C62828&text_color=E6E6E6&border_color=C62828" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shelvaaathithyan&hide_border=true&background=0D0D0D&border=C62828&stroke=FFD700&ring=C62828&fire=FFD700&currStreakLabel=FFD700&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=E6E6E6&dates=999999" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shelvaaathithyan&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=A0D8F1&icon_color=2E86C1&text_color=E6E6E6&border_color=2E86C1" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shelvaaathithyan&hide_border=true&background=0D0D0D&border=2E86C1&stroke=A0D8F1&ring=2E86C1&fire=A0D8F1&currStreakLabel=A0D8F1&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=E6E6E6&dates=999999" width="48%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:C62828&height=2&width=60%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A0D8F1,100:2E86C1&height=2&width=60%25"/>
 
 </div>
 
-
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A0D8F1,100:0D1B2A&height=3&width=100%25"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C62828,100:FFD700&height=60&text=CONNECT%20WITH%20ME&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1B2A,50:2E86C1,100:A0D8F1&height=60&text=CONNECT%20WITH%20ME&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=A0D8F1&strokeWidth=2&fontAlignY=55" width="100%"/>
 
 <p align="center">
 <a href="https://linkedin.com/in/shelvaaathithyan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -156,15 +154,13 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A0D8F1,100:0D1B2A&height=3&width=100%25"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C62828,100:FFD700&height=60&text=CONTRIBUTIONS&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:A0D8F1,50:2E86C1,100:0D1B2A&height=60&text=CONTRIBUTIONS&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=A0D8F1&strokeWidth=2&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
 <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/shelvaaathithyan/shelvaaathithyan/output/bomberman-contribution-graph-dark.svg" width="100%">
-
-
 
 </div>
 
@@ -172,7 +168,7 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,40:C62828,70:8B0000,100:0D0D0D&height=160&section=footer&animation=twinkling&text=Thanks%20for%20Scrolling!!&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A0D8F1,40:2E86C1,70:1B4F72,100:0D1B2A&height=160&section=footer&animation=fadeIn&text=Thanks%20for%20Scrolling!!&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=A0D8F1&strokeWidth=2&fontAlignY=80" width="100%"/>
 
 <b>Building technology that creates real-world impact.</b>
 
