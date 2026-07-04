@@ -18,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
-### 🧑‍💻&nbsp; About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C62828,100:FFD700&height=60&text=ABOUT%20ME&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=55" width="100%"/>
 
 <p align="justify">
 I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <strong>PSG College of Technology, Coimbatore</strong>, passionate about building AI-powered products, scalable full-stack applications, and intelligent IoT solutions. Currently serving as the <strong>Embedded Systems & IoT Domain Coordinator</strong> at CSEA, I enjoy transforming innovative ideas into impactful real-world solutions. I'm also a <strong>Summer Research Intern @ SERC, IIIT Hyderabad</strong>, where I'm expanding my research experience while continuously exploring emerging technologies and building meaningful software.
@@ -28,7 +28,7 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
-### 🛠️&nbsp; Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C62828,100:FFD700&height=60&text=TECH%20STACK&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -48,7 +48,7 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
-### 🚀&nbsp; Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C62828,100:FFD700&height=60&text=FEATURED%20PROJECTS&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -127,7 +127,7 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
-### 📊&nbsp; Git Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C62828,100:FFD700&height=60&text=GIT%20STATS&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -146,7 +146,7 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
-### 🤝&nbsp; Connect with Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C62828,100:FFD700&height=60&text=CONNECT%20WITH%20ME&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=55" width="100%"/>
 
 <p align="center">
 <a href="https://linkedin.com/in/shelvaaathithyan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -158,7 +158,7 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:8E75B2&height=3&width=100%25"/>
 
-### 💥&nbsp; Arc Reactor Overload
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C62828,100:FFD700&height=60&text=CONTRIBUTIONS&fontSize=24&fontColor=ffffff&fontFamily=Arial%20Black&stroke=FFD700&strokeWidth=1&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
