@@ -27,13 +27,63 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 ### Tech Stack
 
 <table align="center" width="100%">
-<tr><td width="150"><strong>Languages</strong></td><td><img src="https://skillicons.dev/icons?i=java,python,javascript" /></td></tr>
-<tr><td><strong>Frontend</strong></td><td><img src="https://skillicons.dev/icons?i=html,css,react,threejs" /></td></tr>
-<tr><td><strong>Backend</strong></td><td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td></tr>
-<tr><td><strong>Database</strong></td><td><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /></td></tr>
-<tr><td><strong>AI / Analytics</strong></td><td><img src="https://skillicons.dev/icons?i=tensorflow" />&nbsp;<img src="https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811" height="28"/></td></tr>
-<tr><td><strong>Hardware / IoT</strong></td><td><img src="https://skillicons.dev/icons?i=raspberrypi" />&nbsp;<img src="https://img.shields.io/badge/Arduino-0F172A?style=flat-square&logo=arduino&logoColor=00979D" height="28"/>&nbsp;<img src="https://img.shields.io/badge/ESP8266-0F172A?style=flat-square&logo=espressif&logoColor=E7352C" height="28"/></td></tr>
-<tr><td><strong>Tools</strong></td><td><img src="https://skillicons.dev/icons?i=docker,git,github,androidstudio,blender" /></td></tr>
+<tr>
+<td align="center" width="50%">
+
+`Languages`
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" height="48"/>
+
+</td>
+<td align="center" width="50%">
+
+`Frontend`
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,threejs" height="48"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+`Backend`
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="48"/>
+
+</td>
+<td align="center">
+
+`Database`
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="48"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+`AI / Analytics`
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="48"/>&nbsp;<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" width="48"/>
+
+</td>
+<td align="center">
+
+`Hardware / IoT`
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" height="48"/>&nbsp;<img src="https://cdn.simpleicons.org/espressif/E7352C" height="48" width="48"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+`Tools`
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,androidstudio,blender" height="48"/>
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -130,8 +180,8 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shelvaaathithyan&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=475569&border_radius=8" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shelvaaathithyan&hide_border=true&background=00000000&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=475569&currStreakNum=1E293B&sideNums=1E293B&dates=94A3B8&border_radius=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shelvaaathithyan&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=475569&border_radius=8&count_private=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=shelvaaathithyan&hide_border=true&background=00000000&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=475569&currStreakNum=1E293B&sideNums=1E293B&dates=94A3B8&border_radius=8" width="48%" />
 
 </div>
 
