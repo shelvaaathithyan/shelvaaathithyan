@@ -64,7 +64,7 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 `AI / Analytics`
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="48"/>&nbsp;<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" width="48"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" height="48"/>&nbsp;<img src="https://img.shields.io/badge/YOLO-0F172A?style=flat-square&logoColor=00FFFF" height="48"/>
 
 </td>
 <td align="center">
@@ -180,8 +180,8 @@ I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <stro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shelvaaathithyan&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=475569&border_radius=8&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=shelvaaathithyan&hide_border=true&background=00000000&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=475569&currStreakNum=1E293B&sideNums=1E293B&dates=94A3B8&border_radius=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shelvaaathithyan&show_icons=true&hide_border=true&theme=transparent&title_color=6366F1&icon_color=6366F1&text_color=475569&border_radius=8&count_private=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=shelvaaathithyan&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=475569&currStreakNum=1E293B&sideNums=1E293B&dates=94A3B8&border_radius=8" width="48%" />
 
 </div>
 
