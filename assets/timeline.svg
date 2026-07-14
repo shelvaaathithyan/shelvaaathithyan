@@ -1,0 +1,57 @@
+<svg width="1200" height="436" viewBox="0 0 1200 436" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="hardGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="dropShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.85"/>
+    </filter>
+    <linearGradient id="bevelTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="panelFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141414" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.98"/>
+    </linearGradient>
+    <radialGradient id="bgGlow" cx="50%" cy="0%" r="90%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadeEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="transparent"/>
+      <line x1="0" y1="0" x2="4" y2="0" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <pattern id="hatch" width="6" height="6" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="436" fill="#000000"/>
+  <rect x="0" y="0" width="1200" height="436" fill="url(#bgGlow)"/>
+
+    <polygon points="26,4 1174,4 1196,26 1196,410 1174,432 26,432 4,410 4,26" fill="url(#panelFill)" stroke="#ffffff" stroke-opacity="0.5" stroke-width="1.2" filter="url(#dropShadow)"/>
+    <polygon points="26,4 1174,4 1196,26 1196,410 1174,432 26,432 4,410 4,26" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="6"/>
+    <path d="M-4,18 L-4,-4 L18,-4" fill="none" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1.6"/><path d="M1204,18 L1204,-4 L1182,-4" fill="none" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1.6"/><path d="M-4,418 L-4,440 L18,440" fill="none" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1.6"/><path d="M1204,418 L1204,440 L1182,440" fill="none" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1.6"/><text x="60" y="44" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" fill="#ffffff" fill-opacity="0.65" letter-spacing="2" text-anchor="start">// TIMELINE</text><line x1="60" y1="56" x2="1140" y2="56" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1"/><line x1="130" y1="80" x2="130" y2="402" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.4"/><circle cx="130" cy="100" r="7" fill="#000000" stroke="#ffffff" stroke-width="1.6" filter="url(#softGlow)"/><circle cx="130" cy="100" r="2.4" fill="#ffffff"/><text x="60" y="105" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">2026</text><line x1="152" y1="111" x2="164" y2="111" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1"/><text x="174" y="116" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#ffffff" fill-opacity="0.85">Summer Research Intern — SERC, IIIT Hyderabad</text><line x1="152" y1="133" x2="164" y2="133" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1"/><text x="174" y="138" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#ffffff" fill-opacity="0.85">Shipped Portfolio V2</text><line x1="152" y1="155" x2="164" y2="155" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1"/><text x="174" y="160" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#ffffff" fill-opacity="0.85">Built VisionBite</text><line x1="152" y1="177" x2="164" y2="177" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1"/><text x="174" y="182" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#ffffff" fill-opacity="0.85">Built Raha Creations</text><circle cx="130" cy="226" r="7" fill="#000000" stroke="#ffffff" stroke-width="1.6" filter="url(#softGlow)"/><circle cx="130" cy="226" r="2.4" fill="#ffffff"/><text x="60" y="231" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">2025</text><line x1="152" y1="237" x2="164" y2="237" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1"/><text x="174" y="242" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#ffffff" fill-opacity="0.85">Embedded Systems &amp; IoT Domain Coordinator</text><line x1="152" y1="259" x2="164" y2="259" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1"/><text x="174" y="264" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#ffffff" fill-opacity="0.85">Built Repora</text><circle cx="130" cy="308" r="7" fill="#000000" stroke="#ffffff" stroke-width="1.6" filter="url(#softGlow)"/><circle cx="130" cy="308" r="2.4" fill="#ffffff"/><text x="60" y="313" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">2024</text><line x1="152" y1="319" x2="164" y2="319" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1"/><text x="174" y="324" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#ffffff" fill-opacity="0.85">Joined PSG Tech</text>
+  <rect x="0" y="0" width="1200" height="436" fill="url(#scanlines)"/>
+</svg>

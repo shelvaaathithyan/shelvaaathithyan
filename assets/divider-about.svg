@@ -1,0 +1,54 @@
+<svg width="1200" height="70" viewBox="0 0 1200 70" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="hardGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="dropShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.85"/>
+    </filter>
+    <linearGradient id="bevelTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="panelFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141414" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.98"/>
+    </linearGradient>
+    <radialGradient id="bgGlow" cx="50%" cy="0%" r="90%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadeEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="transparent"/>
+      <line x1="0" y1="0" x2="4" y2="0" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <pattern id="hatch" width="6" height="6" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="70" fill="#000000"/>
+  <rect x="0" y="0" width="1200" height="70" fill="url(#bgGlow)"/>
+<line x1="0" y1="35.0" x2="1200" y2="35.0" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1"/><polygon points="552.4,17.0 647.6,17.0 657.6,27.0 657.6,43.0 647.6,53.0 552.4,53.0 542.4,43.0 542.4,27.0" fill="#000000" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1.2"/><text x="600.0" y="41.0" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" letter-spacing="3" fill="#ffffff" text-anchor="middle" filter="url(#softGlow)">// ABOUT</text><rect x="513.4" y="30.0" width="10" height="10" fill="none" stroke="#ffffff" stroke-opacity="0.5" stroke-width="1" transform="rotate(45 518.4 35.0)"/><rect x="676.6" y="30.0" width="10" height="10" fill="none" stroke="#ffffff" stroke-opacity="0.5" stroke-width="1" transform="rotate(45 681.6 35.0)"/>
+  <rect x="0" y="0" width="1200" height="70" fill="url(#scanlines)"/>
+</svg>

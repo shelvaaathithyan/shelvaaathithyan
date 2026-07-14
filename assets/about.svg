@@ -1,0 +1,57 @@
+<svg width="1200" height="210" viewBox="0 0 1200 210" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="hardGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="dropShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.85"/>
+    </filter>
+    <linearGradient id="bevelTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="panelFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141414" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.98"/>
+    </linearGradient>
+    <radialGradient id="bgGlow" cx="50%" cy="0%" r="90%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadeEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="transparent"/>
+      <line x1="0" y1="0" x2="4" y2="0" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <pattern id="hatch" width="6" height="6" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="210" fill="#000000"/>
+  <rect x="0" y="0" width="1200" height="210" fill="url(#bgGlow)"/>
+
+    <polygon points="26,4 1174,4 1196,26 1196,184 1174,206 26,206 4,184 4,26" fill="url(#panelFill)" stroke="#ffffff" stroke-opacity="0.5" stroke-width="1.2" filter="url(#dropShadow)"/>
+    <polygon points="26,4 1174,4 1196,26 1196,184 1174,206 26,206 4,184 4,26" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="6"/>
+    <path d="M-4,18 L-4,-4 L18,-4" fill="none" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1.6"/><path d="M1204,18 L1204,-4 L1182,-4" fill="none" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1.6"/><path d="M-4,192 L-4,214 L18,214" fill="none" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1.6"/><path d="M1204,192 L1204,214 L1182,214" fill="none" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1.6"/><text x="40" y="42" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="13" fill="#ffffff" fill-opacity="0.65" letter-spacing="2" text-anchor="start">// ABOUT</text><line x1="40" y1="54" x2="1160" y2="54" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1"/><text x="40" y="86" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#ffffff" fill-opacity="0.85">I build intelligent, interactive systems at the intersection of AI, full-stack</text><text x="40" y="110" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#ffffff" fill-opacity="0.85">engineering and embedded hardware — from machine learning and RAG-driven interfaces to</text><text x="40" y="134" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#ffffff" fill-opacity="0.85">IoT devices that sense the physical world. My work spans research, product design and</text><text x="40" y="158" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#ffffff" fill-opacity="0.85">shipping, with a focus on interfaces that feel alive and systems that hold up under real</text><text x="40" y="182" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#ffffff" fill-opacity="0.85">use.</text>
+  <rect x="0" y="0" width="1200" height="210" fill="url(#scanlines)"/>
+</svg>
