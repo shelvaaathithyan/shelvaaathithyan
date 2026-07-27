@@ -15,7 +15,16 @@
 ### About Me
 
 <p align="justify">
-I'm a <strong>Computer Science & Engineering (AI & ML)</strong> student at <strong>PSG College of Technology, Coimbatore</strong>, passionate about building AI-powered products, scalable full-stack applications, and intelligent IoT solutions. Currently serving as the <strong>Embedded Systems & IoT Domain Coordinator</strong> at CSEA, I enjoy transforming innovative ideas into impactful real-world solutions. I'm also a <strong>Summer Intern @ SERC, IIIT Hyderabad</strong>, where I'm expanding my research experience while continuously exploring emerging technologies and building meaningful software.
+Every project starts with a simple question:
+
+**"Can this make someone's life easier?"**
+
+If the answer is yes, I'm interested.
+
+I build at the intersection of Artificial Intelligence, Full Stack Development, and Embedded Systems, creating software that's practical, scalable, and built with purpose. Along the way, I completed a **Summer Research Internship at SERC, IIIT Hyderabad**, where I learned to combine research with real-world engineering.
+
+Today, I'm pursuing Computer Science & Engineering (AI & ML) at **PSG College of Technology**, continuously exploring technologies that turn ambitious ideas into meaningful products.
+
 </p>
 
 <br/>
