@@ -228,6 +228,5 @@ Today, I'm pursuing Computer Science & Engineering (AI & ML) at **PSG College of
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=120&section=footer&text=Thanks%20for%20Scrolling!!&fontSize=18&fontColor=F8FAFC&fontFamily=Inter&fontAlignY=65" width="100%"/>
 
-<sub>Building technology that creates real-world impact.</sub>
 
 </div>
